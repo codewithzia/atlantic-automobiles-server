@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AspNetCore.Identity.MongoDbCore" Version="3.1.2" />
+		<PackageReference Include="AutoMapper" Version="13.0.1" />
+		<PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+		<PackageReference Include="MailKit" Version="3.4.1" />
+		<PackageReference Include="Microsoft.AspNet.Providers.Core" Version="2.0.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.8" />
+		<PackageReference Include="Microsoft.AspNetCore.SignalR.Client.Core" Version="6.0.9" />
+		<PackageReference Include="Microsoft.AspNetCore.SignalR.Common" Version="6.0.9" />
+		<PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.10.0" />
+		<PackageReference Include="MimeKit" Version="3.4.1" />
+		<PackageReference Include="MongoDB.Driver.GridFS" Version="2.17.1" />
+		<PackageReference Include="MongoDB.Entities" Version="20.26.5" />
+		<PackageReference Include="Nanoid" Version="2.1.0" />
+		<PackageReference Include="RestSharp" Version="108.0.3" />
+		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.10.0" />
+		<PackageReference Include="UploadStream" Version="3.1.1" />
+	</ItemGroup>
+</Project>

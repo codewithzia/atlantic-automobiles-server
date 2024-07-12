@@ -1,0 +1,1969 @@
+﻿[
+  {
+    "Name": "Afghanistan",
+    "Code": "AF",
+    "DialingCode": "93",
+    "Currency": "AFN",
+    "CurrencyPrint": "AFN",
+    "Rate": "1"
+  },
+  {
+    "Name": "Aland Islands",
+    "Code": "AX",
+    "DialingCode": "+358-18",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Albania",
+    "Code": "AL",
+    "DialingCode": "355",
+    "Currency": "ALL",
+    "CurrencyPrint": "ALL",
+    "Rate": "1"
+  },
+  {
+    "Name": "Algeria",
+    "Code": "DZ",
+    "DialingCode": "213",
+    "Currency": "DZD",
+    "CurrencyPrint": "DZD",
+    "Rate": "1"
+  },
+  {
+    "Name": "American Samoa",
+    "Code": "AS",
+    "DialingCode": "+1-684",
+    "Currency": "USD",
+    "CurrencyPrint": "USD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Andorra",
+    "Code": "AD",
+    "DialingCode": "376",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Angola",
+    "Code": "AO",
+    "DialingCode": "244",
+    "Currency": "AOA",
+    "CurrencyPrint": "AOA",
+    "Rate": "1"
+  },
+  {
+    "Name": "Anguilla",
+    "Code": "AI",
+    "DialingCode": "+1-264",
+    "Currency": "XCD",
+    "CurrencyPrint": "XCD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Antarctica",
+    "Code": "AQ",
+    "Rate": "1"
+  },
+  {
+    "Name": "Antigua And Barbuda",
+    "Code": "AG",
+    "DialingCode": "+1-268",
+    "Currency": "XCD",
+    "CurrencyPrint": "XCD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Argentina",
+    "Code": "AR",
+    "DialingCode": "54",
+    "Currency": "ARS",
+    "CurrencyPrint": "ARS",
+    "Rate": "1"
+  },
+  {
+    "Name": "Armenia",
+    "Code": "AM",
+    "DialingCode": "374",
+    "Currency": "AMD",
+    "CurrencyPrint": "AMD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Aruba",
+    "Code": "AW",
+    "DialingCode": "297",
+    "Currency": "AWG",
+    "CurrencyPrint": "AWG",
+    "Rate": "1"
+  },
+  {
+    "Name": "Australia",
+    "Code": "AU",
+    "DialingCode": "61",
+    "Currency": "AUD",
+    "CurrencyPrint": "AUD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Austria",
+    "Code": "AT",
+    "DialingCode": "43",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Azerbaijan",
+    "Code": "AZ",
+    "DialingCode": "994",
+    "Currency": "AZN",
+    "CurrencyPrint": "AZN",
+    "Rate": "1"
+  },
+  {
+    "Name": "Bahamas The",
+    "Code": "BS",
+    "DialingCode": "+1-242",
+    "Currency": "BSD",
+    "CurrencyPrint": "BSD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Bahrain",
+    "Code": "BH",
+    "DialingCode": "973",
+    "Currency": "BHD",
+    "CurrencyPrint": "BHD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Bangladesh",
+    "Code": "BD",
+    "DialingCode": "880",
+    "Currency": "BDT",
+    "CurrencyPrint": "BDT",
+    "Rate": "24.5"
+  },
+  {
+    "Name": "Barbados",
+    "Code": "BB",
+    "DialingCode": "+1-246",
+    "Currency": "BBD",
+    "CurrencyPrint": "BBD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Belarus",
+    "Code": "BY",
+    "DialingCode": "375",
+    "Currency": "BYR",
+    "CurrencyPrint": "BYR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Belgium",
+    "Code": "BE",
+    "DialingCode": "32",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Belize",
+    "Code": "BZ",
+    "DialingCode": "501",
+    "Currency": "BZD",
+    "CurrencyPrint": "BZD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Benin",
+    "Code": "BJ",
+    "DialingCode": "229",
+    "Currency": "XOF",
+    "CurrencyPrint": "XOF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Bermuda",
+    "Code": "BM",
+    "DialingCode": "+1-441",
+    "Currency": "BMD",
+    "CurrencyPrint": "BMD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Bhutan",
+    "Code": "BT",
+    "DialingCode": "975",
+    "Currency": "BTN",
+    "CurrencyPrint": "BTN",
+    "Rate": "1"
+  },
+  {
+    "Name": "Bolivia",
+    "Code": "BO",
+    "DialingCode": "591",
+    "Currency": "BOB",
+    "CurrencyPrint": "BOB",
+    "Rate": "1"
+  },
+  {
+    "Name": "Bosnia and Herzegovina",
+    "Code": "BA",
+    "DialingCode": "387",
+    "Currency": "BAM",
+    "CurrencyPrint": "BAM",
+    "Rate": "1"
+  },
+  {
+    "Name": "Botswana",
+    "Code": "BW",
+    "DialingCode": "267",
+    "Currency": "BWP",
+    "CurrencyPrint": "BWP",
+    "Rate": "1"
+  },
+  {
+    "Name": "Bouvet Island",
+    "Code": "BV",
+    "Currency": "NOK",
+    "CurrencyPrint": "NOK",
+    "Rate": "1"
+  },
+  {
+    "Name": "Brazil",
+    "Code": "BR",
+    "DialingCode": "55",
+    "Currency": "BRL",
+    "CurrencyPrint": "BRL",
+    "Rate": "1"
+  },
+  {
+    "Name": "British Indian Ocean Territory",
+    "Code": "IO",
+    "DialingCode": "246",
+    "Currency": "USD",
+    "CurrencyPrint": "USD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Brunei",
+    "Code": "BN",
+    "DialingCode": "673",
+    "Currency": "BND",
+    "CurrencyPrint": "BND",
+    "Rate": "1"
+  },
+  {
+    "Name": "Bulgaria",
+    "Code": "BG",
+    "DialingCode": "359",
+    "Currency": "BGN",
+    "CurrencyPrint": "BGN",
+    "Rate": "1"
+  },
+  {
+    "Name": "Burkina Faso",
+    "Code": "BF",
+    "DialingCode": "226",
+    "Currency": "XOF",
+    "CurrencyPrint": "XOF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Burundi",
+    "Code": "BI",
+    "DialingCode": "257",
+    "Currency": "BIF",
+    "CurrencyPrint": "BIF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Cambodia",
+    "Code": "KH",
+    "DialingCode": "855",
+    "Currency": "KHR",
+    "CurrencyPrint": "KHR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Cameroon",
+    "Code": "CM",
+    "DialingCode": "237",
+    "Currency": "XAF",
+    "CurrencyPrint": "XAF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Canada",
+    "Code": "CA",
+    "DialingCode": "1",
+    "Currency": "CAD",
+    "CurrencyPrint": "CAD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Cape Verde",
+    "Code": "CV",
+    "DialingCode": "238",
+    "Currency": "CVE",
+    "CurrencyPrint": "CVE",
+    "Rate": "1"
+  },
+  {
+    "Name": "Cayman Islands",
+    "Code": "KY",
+    "DialingCode": "+1-345",
+    "Currency": "KYD",
+    "CurrencyPrint": "KYD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Central African Republic",
+    "Code": "CF",
+    "DialingCode": "236",
+    "Currency": "XAF",
+    "CurrencyPrint": "XAF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Chad",
+    "Code": "TD",
+    "DialingCode": "235",
+    "Currency": "XAF",
+    "CurrencyPrint": "XAF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Chile",
+    "Code": "CL",
+    "DialingCode": "56",
+    "Currency": "CLP",
+    "CurrencyPrint": "CLP",
+    "Rate": "1"
+  },
+  {
+    "Name": "China",
+    "Code": "CN",
+    "DialingCode": "86",
+    "Currency": "CNY",
+    "CurrencyPrint": "CNY",
+    "Rate": "1"
+  },
+  {
+    "Name": "Christmas Island",
+    "Code": "CX",
+    "DialingCode": "61",
+    "Currency": "AUD",
+    "CurrencyPrint": "AUD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Cocos (Keeling) Islands",
+    "Code": "CC",
+    "DialingCode": "61",
+    "Currency": "AUD",
+    "CurrencyPrint": "AUD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Colombia",
+    "Code": "CO",
+    "DialingCode": "57",
+    "Currency": "COP",
+    "CurrencyPrint": "COP",
+    "Rate": "1"
+  },
+  {
+    "Name": "Comoros",
+    "Code": "KM",
+    "DialingCode": "269",
+    "Currency": "KMF",
+    "CurrencyPrint": "KMF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Congo",
+    "Code": "CG",
+    "DialingCode": "242",
+    "Currency": "XAF",
+    "CurrencyPrint": "XAF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Congo The Democratic Republic Of The",
+    "Code": "CD",
+    "DialingCode": "243",
+    "Currency": "CDF",
+    "CurrencyPrint": "CDF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Cook Islands",
+    "Code": "CK",
+    "DialingCode": "682",
+    "Currency": "NZD",
+    "CurrencyPrint": "NZD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Costa Rica",
+    "Code": "CR",
+    "DialingCode": "506",
+    "Currency": "CRC",
+    "CurrencyPrint": "CRC",
+    "Rate": "1"
+  },
+  {
+    "Name": "Cote D'Ivoire (Ivory Coast)",
+    "Code": "CI",
+    "DialingCode": "225",
+    "Currency": "XOF",
+    "CurrencyPrint": "XOF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Croatia (Hrvatska)",
+    "Code": "HR",
+    "DialingCode": "385",
+    "Currency": "HRK",
+    "CurrencyPrint": "HRK",
+    "Rate": "1"
+  },
+  {
+    "Name": "Cuba",
+    "Code": "CU",
+    "DialingCode": "53",
+    "Currency": "CUP",
+    "CurrencyPrint": "CUP",
+    "Rate": "1"
+  },
+  {
+    "Name": "Cyprus",
+    "Code": "CY",
+    "DialingCode": "357",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Czech Republic",
+    "Code": "CZ",
+    "DialingCode": "420",
+    "Currency": "CZK",
+    "CurrencyPrint": "CZK",
+    "Rate": "1"
+  },
+  {
+    "Name": "Denmark",
+    "Code": "DK",
+    "DialingCode": "45",
+    "Currency": "DKK",
+    "CurrencyPrint": "DKK",
+    "Rate": "1"
+  },
+  {
+    "Name": "Djibouti",
+    "Code": "DJ",
+    "DialingCode": "253",
+    "Currency": "DJF",
+    "CurrencyPrint": "DJF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Dominica",
+    "Code": "DM",
+    "DialingCode": "+1-767",
+    "Currency": "XCD",
+    "CurrencyPrint": "XCD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Dominican Republic",
+    "Code": "DO",
+    "DialingCode": "+1-809 and 1-829",
+    "Currency": "DOP",
+    "CurrencyPrint": "DOP",
+    "Rate": "1"
+  },
+  {
+    "Name": "East Timor",
+    "Code": "TL",
+    "DialingCode": "670",
+    "Currency": "USD",
+    "CurrencyPrint": "USD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Ecuador",
+    "Code": "EC",
+    "DialingCode": "593",
+    "Currency": "USD",
+    "CurrencyPrint": "USD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Egypt",
+    "Code": "EG",
+    "DialingCode": "20",
+    "Currency": "EGP",
+    "CurrencyPrint": "EGP",
+    "Rate": "1"
+  },
+  {
+    "Name": "El Salvador",
+    "Code": "SV",
+    "DialingCode": "503",
+    "Currency": "USD",
+    "CurrencyPrint": "USD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Equatorial Guinea",
+    "Code": "GQ",
+    "DialingCode": "240",
+    "Currency": "XAF",
+    "CurrencyPrint": "XAF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Eritrea",
+    "Code": "ER",
+    "DialingCode": "291",
+    "Currency": "ERN",
+    "CurrencyPrint": "ERN",
+    "Rate": "1"
+  },
+  {
+    "Name": "Estonia",
+    "Code": "EE",
+    "DialingCode": "372",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Ethiopia",
+    "Code": "ET",
+    "DialingCode": "251",
+    "Currency": "ETB",
+    "CurrencyPrint": "ETB",
+    "Rate": "1"
+  },
+  {
+    "Name": "Falkland Islands",
+    "Code": "FK",
+    "DialingCode": "500",
+    "Currency": "FKP",
+    "CurrencyPrint": "FKP",
+    "Rate": "1"
+  },
+  {
+    "Name": "Faroe Islands",
+    "Code": "FO",
+    "DialingCode": "298",
+    "Currency": "DKK",
+    "CurrencyPrint": "DKK",
+    "Rate": "1"
+  },
+  {
+    "Name": "Fiji Islands",
+    "Code": "FJ",
+    "DialingCode": "679",
+    "Currency": "FJD",
+    "CurrencyPrint": "FJD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Finland",
+    "Code": "FI",
+    "DialingCode": "358",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "France",
+    "Code": "FR",
+    "DialingCode": "33",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "French Guiana",
+    "Code": "GF",
+    "DialingCode": "594",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "French Polynesia",
+    "Code": "PF",
+    "DialingCode": "689",
+    "Currency": "XPF",
+    "CurrencyPrint": "XPF",
+    "Rate": "1"
+  },
+  {
+    "Name": "French Southern Territories",
+    "Code": "TF",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Gabon",
+    "Code": "GA",
+    "DialingCode": "241",
+    "Currency": "XAF",
+    "CurrencyPrint": "XAF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Gambia The",
+    "Code": "GM",
+    "DialingCode": "220",
+    "Currency": "GMD",
+    "CurrencyPrint": "GMD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Georgia",
+    "Code": "GE",
+    "DialingCode": "995",
+    "Currency": "GEL",
+    "CurrencyPrint": "GEL",
+    "Rate": "1"
+  },
+  {
+    "Name": "Germany",
+    "Code": "DE",
+    "DialingCode": "49",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Ghana",
+    "Code": "GH",
+    "DialingCode": "233",
+    "Currency": "GHS",
+    "CurrencyPrint": "GHS",
+    "Rate": "1"
+  },
+  {
+    "Name": "Gibraltar",
+    "Code": "GI",
+    "DialingCode": "350",
+    "Currency": "GIP",
+    "CurrencyPrint": "GIP",
+    "Rate": "1"
+  },
+  {
+    "Name": "Greece",
+    "Code": "GR",
+    "DialingCode": "30",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Greenland",
+    "Code": "GL",
+    "DialingCode": "299",
+    "Currency": "DKK",
+    "CurrencyPrint": "DKK",
+    "Rate": "1"
+  },
+  {
+    "Name": "Grenada",
+    "Code": "GD",
+    "DialingCode": "+1-473",
+    "Currency": "XCD",
+    "CurrencyPrint": "XCD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Guadeloupe",
+    "Code": "GP",
+    "DialingCode": "590",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Guam",
+    "Code": "GU",
+    "DialingCode": "+1-671",
+    "Currency": "USD",
+    "CurrencyPrint": "USD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Guatemala",
+    "Code": "GT",
+    "DialingCode": "502",
+    "Currency": "GTQ",
+    "CurrencyPrint": "GTQ",
+    "Rate": "1"
+  },
+  {
+    "Name": "Guernsey and Alderney",
+    "Code": "GG",
+    "DialingCode": "+44-1481",
+    "Currency": "GBP",
+    "CurrencyPrint": "GBP",
+    "Rate": "1"
+  },
+  {
+    "Name": "Guinea",
+    "Code": "GN",
+    "DialingCode": "224",
+    "Currency": "GNF",
+    "CurrencyPrint": "GNF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Guinea-Bissau",
+    "Code": "GW",
+    "DialingCode": "245",
+    "Currency": "XOF",
+    "CurrencyPrint": "XOF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Guyana",
+    "Code": "GY",
+    "DialingCode": "592",
+    "Currency": "GYD",
+    "CurrencyPrint": "GYD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Haiti",
+    "Code": "HT",
+    "DialingCode": "509",
+    "Currency": "HTG",
+    "CurrencyPrint": "HTG",
+    "Rate": "1"
+  },
+  {
+    "Name": "Heard and McDonald Islands",
+    "Code": "HM",
+    "DialingCode": " ",
+    "Currency": "AUD",
+    "CurrencyPrint": "AUD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Honduras",
+    "Code": "HN",
+    "DialingCode": "504",
+    "Currency": "HNL",
+    "CurrencyPrint": "HNL",
+    "Rate": "1"
+  },
+  {
+    "Name": "Hong Kong S.A.R.",
+    "Code": "HK",
+    "DialingCode": "852",
+    "Currency": "HKD",
+    "CurrencyPrint": "HKD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Hungary",
+    "Code": "HU",
+    "DialingCode": "36",
+    "Currency": "HUF",
+    "CurrencyPrint": "HUF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Iceland",
+    "Code": "IS",
+    "DialingCode": "354",
+    "Currency": "ISK",
+    "CurrencyPrint": "ISK",
+    "Rate": "1"
+  },
+  {
+    "Name": "India",
+    "Code": "IN",
+    "DialingCode": "91",
+    "Currency": "INR",
+    "CurrencyPrint": "INR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Indonesia",
+    "Code": "ID",
+    "DialingCode": "62",
+    "Currency": "IDR",
+    "CurrencyPrint": "IDR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Iran",
+    "Code": "IR",
+    "DialingCode": "98",
+    "Currency": "IRR",
+    "CurrencyPrint": "IRR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Iraq",
+    "Code": "IQ",
+    "DialingCode": "964",
+    "Currency": "IQD",
+    "CurrencyPrint": "IQD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Ireland",
+    "Code": "IE",
+    "DialingCode": "353",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Israel",
+    "Code": "IL",
+    "DialingCode": "972",
+    "Currency": "ILS",
+    "CurrencyPrint": "ILS",
+    "Rate": "1"
+  },
+  {
+    "Name": "Italy",
+    "Code": "IT",
+    "DialingCode": "39",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Jamaica",
+    "Code": "JM",
+    "DialingCode": "+1-876",
+    "Currency": "JMD",
+    "CurrencyPrint": "JMD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Japan",
+    "Code": "JP",
+    "DialingCode": "81",
+    "Currency": "JPY",
+    "CurrencyPrint": "JPY",
+    "Rate": "1"
+  },
+  {
+    "Name": "Jersey",
+    "Code": "JE",
+    "DialingCode": "+44-1534",
+    "Currency": "GBP",
+    "CurrencyPrint": "GBP",
+    "Rate": "1"
+  },
+  {
+    "Name": "Jordan",
+    "Code": "JO",
+    "DialingCode": "962",
+    "Currency": "JOD",
+    "CurrencyPrint": "JOD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Kazakhstan",
+    "Code": "KZ",
+    "DialingCode": "7",
+    "Currency": "KZT",
+    "CurrencyPrint": "KZT",
+    "Rate": "1"
+  },
+  {
+    "Name": "Kenya",
+    "Code": "KE",
+    "DialingCode": "254",
+    "Currency": "KES",
+    "CurrencyPrint": "KES",
+    "Rate": "1"
+  },
+  {
+    "Name": "Kiribati",
+    "Code": "KI",
+    "DialingCode": "686",
+    "Currency": "AUD",
+    "CurrencyPrint": "AUD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Korea North\\n",
+    "Code": "KP",
+    "DialingCode": "850",
+    "Currency": "KPW",
+    "CurrencyPrint": "KPW",
+    "Rate": "1"
+  },
+  {
+    "Name": "Korea South",
+    "Code": "KR",
+    "DialingCode": "82",
+    "Currency": "KRW",
+    "CurrencyPrint": "KRW",
+    "Rate": "1"
+  },
+  {
+    "Name": "Kuwait",
+    "Code": "KW",
+    "DialingCode": "965",
+    "Currency": "KWD",
+    "CurrencyPrint": "KWD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "Code": "KG",
+    "DialingCode": "996",
+    "Currency": "KGS",
+    "CurrencyPrint": "KGS",
+    "Rate": "1"
+  },
+  {
+    "Name": "Laos",
+    "Code": "LA",
+    "DialingCode": "856",
+    "Currency": "LAK",
+    "CurrencyPrint": "LAK",
+    "Rate": "1"
+  },
+  {
+    "Name": "Latvia",
+    "Code": "LV",
+    "DialingCode": "371",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Lebanon",
+    "Code": "LB",
+    "DialingCode": "961",
+    "Currency": "LBP",
+    "CurrencyPrint": "LBP",
+    "Rate": "1"
+  },
+  {
+    "Name": "Lesotho",
+    "Code": "LS",
+    "DialingCode": "266",
+    "Currency": "LSL",
+    "CurrencyPrint": "LSL",
+    "Rate": "1"
+  },
+  {
+    "Name": "Liberia",
+    "Code": "LR",
+    "DialingCode": "231",
+    "Currency": "LRD",
+    "CurrencyPrint": "LRD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Libya",
+    "Code": "LY",
+    "DialingCode": "218",
+    "Currency": "LYD",
+    "CurrencyPrint": "LYD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Liechtenstein",
+    "Code": "LI",
+    "DialingCode": "423",
+    "Currency": "CHF",
+    "CurrencyPrint": "CHF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Lithuania",
+    "Code": "LT",
+    "DialingCode": "370",
+    "Currency": "LTL",
+    "CurrencyPrint": "LTL",
+    "Rate": "1"
+  },
+  {
+    "Name": "Luxembourg",
+    "Code": "LU",
+    "DialingCode": "352",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Macau S.A.R.",
+    "Code": "MO",
+    "DialingCode": "853",
+    "Currency": "MOP",
+    "CurrencyPrint": "MOP",
+    "Rate": "1"
+  },
+  {
+    "Name": "Macedonia",
+    "Code": "MK",
+    "DialingCode": "389",
+    "Currency": "MKD",
+    "CurrencyPrint": "MKD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Madagascar",
+    "Code": "MG",
+    "DialingCode": "261",
+    "Currency": "MGA",
+    "CurrencyPrint": "MGA",
+    "Rate": "1"
+  },
+  {
+    "Name": "Malawi",
+    "Code": "MW",
+    "DialingCode": "265",
+    "Currency": "MWK",
+    "CurrencyPrint": "MWK",
+    "Rate": "1"
+  },
+  {
+    "Name": "Malaysia",
+    "Code": "MY",
+    "DialingCode": "60",
+    "Currency": "MYR",
+    "CurrencyPrint": "MYR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Maldives",
+    "Code": "MV",
+    "DialingCode": "960",
+    "Currency": "MVR",
+    "CurrencyPrint": "MVR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Mali",
+    "Code": "ML",
+    "DialingCode": "223",
+    "Currency": "XOF",
+    "CurrencyPrint": "XOF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Malta",
+    "Code": "MT",
+    "DialingCode": "356",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Man (Isle of)",
+    "Code": "IM",
+    "DialingCode": "+44-1624",
+    "Currency": "GBP",
+    "CurrencyPrint": "GBP",
+    "Rate": "1"
+  },
+  {
+    "Name": "Marshall Islands",
+    "Code": "MH",
+    "DialingCode": "692",
+    "Currency": "USD",
+    "CurrencyPrint": "USD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Martinique",
+    "Code": "MQ",
+    "DialingCode": "596",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Mauritania",
+    "Code": "MR",
+    "DialingCode": "222",
+    "Currency": "MRO",
+    "CurrencyPrint": "MRO",
+    "Rate": "1"
+  },
+  {
+    "Name": "Mauritius",
+    "Code": "MU",
+    "DialingCode": "230",
+    "Currency": "MUR",
+    "CurrencyPrint": "MUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Mayotte",
+    "Code": "YT",
+    "DialingCode": "262",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Mexico",
+    "Code": "MX",
+    "DialingCode": "52",
+    "Currency": "MXN",
+    "CurrencyPrint": "MXN",
+    "Rate": "1"
+  },
+  {
+    "Name": "Micronesia",
+    "Code": "FM",
+    "DialingCode": "691",
+    "Currency": "USD",
+    "CurrencyPrint": "USD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Moldova",
+    "Code": "MD",
+    "DialingCode": "373",
+    "Currency": "MDL",
+    "CurrencyPrint": "MDL",
+    "Rate": "1"
+  },
+  {
+    "Name": "Monaco",
+    "Code": "MC",
+    "DialingCode": "377",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Mongolia",
+    "Code": "MN",
+    "DialingCode": "976",
+    "Currency": "MNT",
+    "CurrencyPrint": "MNT",
+    "Rate": "1"
+  },
+  {
+    "Name": "Montenegro",
+    "Code": "ME",
+    "DialingCode": "382",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Montserrat",
+    "Code": "MS",
+    "DialingCode": "+1-664",
+    "Currency": "XCD",
+    "CurrencyPrint": "XCD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Morocco",
+    "Code": "MA",
+    "DialingCode": "212",
+    "Currency": "MAD",
+    "CurrencyPrint": "MAD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Mozambique",
+    "Code": "MZ",
+    "DialingCode": "258",
+    "Currency": "MZN",
+    "CurrencyPrint": "MZN",
+    "Rate": "1"
+  },
+  {
+    "Name": "Myanmar",
+    "Code": "MM",
+    "DialingCode": "95",
+    "Currency": "MMK",
+    "CurrencyPrint": "MMK",
+    "Rate": "1"
+  },
+  {
+    "Name": "Namibia",
+    "Code": "NA",
+    "DialingCode": "264",
+    "Currency": "NAD",
+    "CurrencyPrint": "NAD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Nauru",
+    "Code": "NR",
+    "DialingCode": "674",
+    "Currency": "AUD",
+    "CurrencyPrint": "AUD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Nepal",
+    "Code": "NP",
+    "DialingCode": "977",
+    "Currency": "NPR",
+    "CurrencyPrint": "NPR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Netherlands Antilles",
+    "Code": "AN",
+    "Rate": "1"
+  },
+  {
+    "Name": "Netherlands The",
+    "Code": "NL",
+    "DialingCode": "31",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "New Caledonia",
+    "Code": "NC",
+    "DialingCode": "687",
+    "Currency": "XPF",
+    "CurrencyPrint": "XPF",
+    "Rate": "1"
+  },
+  {
+    "Name": "New Zealand",
+    "Code": "NZ",
+    "DialingCode": "64",
+    "Currency": "NZD",
+    "CurrencyPrint": "NZD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Nicaragua",
+    "Code": "NI",
+    "DialingCode": "505",
+    "Currency": "NIO",
+    "CurrencyPrint": "NIO",
+    "Rate": "1"
+  },
+  {
+    "Name": "Niger",
+    "Code": "NE",
+    "DialingCode": "227",
+    "Currency": "XOF",
+    "CurrencyPrint": "XOF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Nigeria",
+    "Code": "NG",
+    "DialingCode": "234",
+    "Currency": "NGN",
+    "CurrencyPrint": "NGN",
+    "Rate": "1"
+  },
+  {
+    "Name": "Niue",
+    "Code": "NU",
+    "DialingCode": "683",
+    "Currency": "NZD",
+    "CurrencyPrint": "NZD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Norfolk Island",
+    "Code": "NF",
+    "DialingCode": "672",
+    "Currency": "AUD",
+    "CurrencyPrint": "AUD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Northern Mariana Islands",
+    "Code": "MP",
+    "DialingCode": "+1-670",
+    "Currency": "USD",
+    "CurrencyPrint": "USD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Norway",
+    "Code": "NO",
+    "DialingCode": "47",
+    "Currency": "NOK",
+    "CurrencyPrint": "NOK",
+    "Rate": "1"
+  },
+  {
+    "Name": "Oman",
+    "Code": "OM",
+    "DialingCode": "968",
+    "Currency": "OMR",
+    "CurrencyPrint": "OMR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Pakistan",
+    "Code": "PK",
+    "DialingCode": "92",
+    "Currency": "PKR",
+    "CurrencyPrint": "PKR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Palau",
+    "Code": "PW",
+    "DialingCode": "680",
+    "Currency": "USD",
+    "CurrencyPrint": "USD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Palestinian Territory Occupied",
+    "Code": "PS",
+    "DialingCode": "970",
+    "Currency": "ILS",
+    "CurrencyPrint": "ILS",
+    "Rate": "1"
+  },
+  {
+    "Name": "Panama",
+    "Code": "PA",
+    "DialingCode": "507",
+    "Currency": "PAB",
+    "CurrencyPrint": "PAB",
+    "Rate": "1"
+  },
+  {
+    "Name": "Papua new Guinea",
+    "Code": "PG",
+    "DialingCode": "675",
+    "Currency": "PGK",
+    "CurrencyPrint": "PGK",
+    "Rate": "1"
+  },
+  {
+    "Name": "Paraguay",
+    "Code": "PY",
+    "DialingCode": "595",
+    "Currency": "PYG",
+    "CurrencyPrint": "PYG",
+    "Rate": "1"
+  },
+  {
+    "Name": "Peru",
+    "Code": "PE",
+    "DialingCode": "51",
+    "Currency": "PEN",
+    "CurrencyPrint": "PEN",
+    "Rate": "1"
+  },
+  {
+    "Name": "Philippines",
+    "Code": "PH",
+    "DialingCode": "63",
+    "Currency": "PHP",
+    "CurrencyPrint": "PHP",
+    "Rate": "1"
+  },
+  {
+    "Name": "Pitcairn Island",
+    "Code": "PN",
+    "DialingCode": "870",
+    "Currency": "NZD",
+    "CurrencyPrint": "NZD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Poland",
+    "Code": "PL",
+    "DialingCode": "48",
+    "Currency": "PLN",
+    "CurrencyPrint": "PLN",
+    "Rate": "1"
+  },
+  {
+    "Name": "Portugal",
+    "Code": "PT",
+    "DialingCode": "351",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Puerto Rico",
+    "Code": "PR",
+    "DialingCode": "+1-787 and 1-939",
+    "Currency": "USD",
+    "CurrencyPrint": "USD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Qatar",
+    "Code": "QA",
+    "DialingCode": "974",
+    "Currency": "QAR",
+    "CurrencyPrint": "QAR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Reunion",
+    "Code": "RE",
+    "DialingCode": "262",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Romania",
+    "Code": "RO",
+    "DialingCode": "40",
+    "Currency": "RON",
+    "CurrencyPrint": "RON",
+    "Rate": "1"
+  },
+  {
+    "Name": "Russia",
+    "Code": "RU",
+    "DialingCode": "7",
+    "Currency": "RUB",
+    "CurrencyPrint": "RUB",
+    "Rate": "1"
+  },
+  {
+    "Name": "Rwanda",
+    "Code": "RW",
+    "DialingCode": "250",
+    "Currency": "RWF",
+    "CurrencyPrint": "RWF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Saint Helena",
+    "Code": "SH",
+    "DialingCode": "290",
+    "Currency": "SHP",
+    "CurrencyPrint": "SHP",
+    "Rate": "1"
+  },
+  {
+    "Name": "Saint Kitts And Nevis",
+    "Code": "KN",
+    "DialingCode": "+1-869",
+    "Currency": "XCD",
+    "CurrencyPrint": "XCD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Saint Lucia",
+    "Code": "LC",
+    "DialingCode": "+1-758",
+    "Currency": "XCD",
+    "CurrencyPrint": "XCD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Saint Pierre and Miquelon",
+    "Code": "PM",
+    "DialingCode": "508",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Saint Vincent And The Grenadines",
+    "Code": "VC",
+    "DialingCode": "+1-784",
+    "Currency": "XCD",
+    "CurrencyPrint": "XCD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Saint-Barthelemy",
+    "Code": "BL",
+    "DialingCode": "590",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Saint-Martin (French part)",
+    "Code": "MF",
+    "DialingCode": "590",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Samoa",
+    "Code": "WS",
+    "DialingCode": "685",
+    "Currency": "WST",
+    "CurrencyPrint": "WST",
+    "Rate": "1"
+  },
+  {
+    "Name": "San Marino",
+    "Code": "SM",
+    "DialingCode": "378",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Sao Tome and Principe",
+    "Code": "ST",
+    "DialingCode": "239",
+    "Currency": "STD",
+    "CurrencyPrint": "STD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Saudi Arabia",
+    "Code": "SA",
+    "DialingCode": "966",
+    "Currency": "SAR",
+    "CurrencyPrint": "SAR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Senegal",
+    "Code": "SN",
+    "DialingCode": "221",
+    "Currency": "XOF",
+    "CurrencyPrint": "XOF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Serbia",
+    "Code": "RS",
+    "DialingCode": "381",
+    "Currency": "RSD",
+    "CurrencyPrint": "RSD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Seychelles",
+    "Code": "SC",
+    "DialingCode": "248",
+    "Currency": "SCR",
+    "CurrencyPrint": "SCR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Sierra Leone",
+    "Code": "SL",
+    "DialingCode": "232",
+    "Currency": "SLL",
+    "CurrencyPrint": "SLL",
+    "Rate": "1"
+  },
+  {
+    "Name": "Singapore",
+    "Code": "SG",
+    "DialingCode": "65",
+    "Currency": "SGD",
+    "CurrencyPrint": "SGD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Slovakia",
+    "Code": "SK",
+    "DialingCode": "421",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Slovenia",
+    "Code": "SI",
+    "DialingCode": "386",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Solomon Islands",
+    "Code": "SB",
+    "DialingCode": "677",
+    "Currency": "SBD",
+    "CurrencyPrint": "SBD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Somalia",
+    "Code": "SO",
+    "DialingCode": "252",
+    "Currency": "SOS",
+    "CurrencyPrint": "SOS",
+    "Rate": "1"
+  },
+  {
+    "Name": "South Africa",
+    "Code": "ZA",
+    "DialingCode": "27",
+    "Currency": "ZAR",
+    "CurrencyPrint": "ZAR",
+    "Rate": "1"
+  },
+  {
+    "Name": "South Georgia",
+    "Code": "GS",
+    "Currency": "GBP",
+    "CurrencyPrint": "GBP",
+    "Rate": "1"
+  },
+  {
+    "Name": "South Sudan",
+    "Code": "SS",
+    "DialingCode": "211",
+    "Currency": "SSP",
+    "CurrencyPrint": "SSP",
+    "Rate": "1"
+  },
+  {
+    "Name": "Spain",
+    "Code": "ES",
+    "DialingCode": "34",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Sri Lanka",
+    "Code": "LK",
+    "DialingCode": "94",
+    "Currency": "LKR",
+    "CurrencyPrint": "LKR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Sudan",
+    "Code": "SD",
+    "DialingCode": "249",
+    "Currency": "SDG",
+    "CurrencyPrint": "SDG",
+    "Rate": "1"
+  },
+  {
+    "Name": "Suriname",
+    "Code": "SR",
+    "DialingCode": "597",
+    "Currency": "SRD",
+    "CurrencyPrint": "SRD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Svalbard And Jan Mayen Islands",
+    "Code": "SJ",
+    "DialingCode": "47",
+    "Currency": "NOK",
+    "CurrencyPrint": "NOK",
+    "Rate": "1"
+  },
+  {
+    "Name": "Swaziland",
+    "Code": "SZ",
+    "DialingCode": "268",
+    "Currency": "SZL",
+    "CurrencyPrint": "SZL",
+    "Rate": "1"
+  },
+  {
+    "Name": "Sweden",
+    "Code": "SE",
+    "DialingCode": "46",
+    "Currency": "SEK",
+    "CurrencyPrint": "SEK",
+    "Rate": "1"
+  },
+  {
+    "Name": "Switzerland",
+    "Code": "CH",
+    "DialingCode": "41",
+    "Currency": "CHF",
+    "CurrencyPrint": "CHF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Syria",
+    "Code": "SY",
+    "DialingCode": "963",
+    "Currency": "SYP",
+    "CurrencyPrint": "SYP",
+    "Rate": "1"
+  },
+  {
+    "Name": "Taiwan",
+    "Code": "TW",
+    "DialingCode": "886",
+    "Currency": "TWD",
+    "CurrencyPrint": "TWD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Tajikistan",
+    "Code": "TJ",
+    "DialingCode": "992",
+    "Currency": "TJS",
+    "CurrencyPrint": "TJS",
+    "Rate": "1"
+  },
+  {
+    "Name": "Tanzania",
+    "Code": "TZ",
+    "DialingCode": "255",
+    "Currency": "TZS",
+    "CurrencyPrint": "TZS",
+    "Rate": "1"
+  },
+  {
+    "Name": "Thailand",
+    "Code": "TH",
+    "DialingCode": "66",
+    "Currency": "THB",
+    "CurrencyPrint": "THB",
+    "Rate": "1"
+  },
+  {
+    "Name": "Togo",
+    "Code": "TG",
+    "DialingCode": "228",
+    "Currency": "XOF",
+    "CurrencyPrint": "XOF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Tokelau",
+    "Code": "TK",
+    "DialingCode": "690",
+    "Currency": "NZD",
+    "CurrencyPrint": "NZD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Tonga",
+    "Code": "TO",
+    "DialingCode": "676",
+    "Currency": "TOP",
+    "CurrencyPrint": "TOP",
+    "Rate": "1"
+  },
+  {
+    "Name": "Trinidad And Tobago",
+    "Code": "TT",
+    "DialingCode": "+1-868",
+    "Currency": "TTD",
+    "CurrencyPrint": "TTD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Tunisia",
+    "Code": "TN",
+    "DialingCode": "216",
+    "Currency": "TND",
+    "CurrencyPrint": "TND",
+    "Rate": "1"
+  },
+  {
+    "Name": "Turkey",
+    "Code": "TR",
+    "DialingCode": "90",
+    "Currency": "TRY",
+    "CurrencyPrint": "TRY",
+    "Rate": "1"
+  },
+  {
+    "Name": "Turkmenistan",
+    "Code": "TM",
+    "DialingCode": "993",
+    "Currency": "TMT",
+    "CurrencyPrint": "TMT",
+    "Rate": "1"
+  },
+  {
+    "Name": "Turks And Caicos Islands",
+    "Code": "TC",
+    "DialingCode": "+1-649",
+    "Currency": "USD",
+    "CurrencyPrint": "USD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Tuvalu",
+    "Code": "TV",
+    "DialingCode": "688",
+    "Currency": "AUD",
+    "CurrencyPrint": "AUD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Uganda",
+    "Code": "UG",
+    "DialingCode": "256",
+    "Currency": "UGX",
+    "CurrencyPrint": "UGX",
+    "Rate": "1"
+  },
+  {
+    "Name": "Ukraine",
+    "Code": "UA",
+    "DialingCode": "380",
+    "Currency": "UAH",
+    "CurrencyPrint": "UAH",
+    "Rate": "1"
+  },
+  {
+    "Name": "United Arab Emirates",
+    "Code": "AE",
+    "DialingCode": "971",
+    "Currency": "AED",
+    "CurrencyPrint": "AED",
+    "Rate": "1"
+  },
+  {
+    "Name": "United Kingdom",
+    "Code": "GB",
+    "DialingCode": "44",
+    "Currency": "GBP",
+    "CurrencyPrint": "GBP",
+    "Rate": "1"
+  },
+  {
+    "Name": "United States",
+    "Code": "US",
+    "DialingCode": "1",
+    "Currency": "USD",
+    "CurrencyPrint": "USD",
+    "Rate": "1"
+  },
+  {
+    "Name": "United States Minor Outlying Islands",
+    "Code": "UM",
+    "DialingCode": "1",
+    "Currency": "USD",
+    "CurrencyPrint": "USD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Uruguay",
+    "Code": "UY",
+    "DialingCode": "598",
+    "Currency": "UYU",
+    "CurrencyPrint": "UYU",
+    "Rate": "1"
+  },
+  {
+    "Name": "Uzbekistan",
+    "Code": "UZ",
+    "DialingCode": "998",
+    "Currency": "UZS",
+    "CurrencyPrint": "UZS",
+    "Rate": "1"
+  },
+  {
+    "Name": "Vanuatu",
+    "Code": "VU",
+    "DialingCode": "678",
+    "Currency": "VUV",
+    "CurrencyPrint": "VUV",
+    "Rate": "1"
+  },
+  {
+    "Name": "Vatican City State (Holy See)",
+    "Code": "VA",
+    "DialingCode": "379",
+    "Currency": "EUR",
+    "CurrencyPrint": "EUR",
+    "Rate": "1"
+  },
+  {
+    "Name": "Venezuela",
+    "Code": "VE",
+    "DialingCode": "58",
+    "Currency": "VEF",
+    "CurrencyPrint": "VEF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Vietnam",
+    "Code": "VN",
+    "DialingCode": "84",
+    "Currency": "VND",
+    "CurrencyPrint": "VND",
+    "Rate": "1"
+  },
+  {
+    "Name": "Virgin Islands (British)",
+    "Code": "VG",
+    "DialingCode": "+1-284",
+    "Currency": "USD",
+    "CurrencyPrint": "USD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Virgin Islands (US)",
+    "Code": "VI",
+    "DialingCode": "+1-340",
+    "Currency": "USD",
+    "CurrencyPrint": "USD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Wallis And Futuna Islands",
+    "Code": "WF",
+    "DialingCode": "681",
+    "Currency": "XPF",
+    "CurrencyPrint": "XPF",
+    "Rate": "1"
+  },
+  {
+    "Name": "Western Sahara",
+    "Code": "EH",
+    "DialingCode": "212",
+    "Currency": "MAD",
+    "CurrencyPrint": "MAD",
+    "Rate": "1"
+  },
+  {
+    "Name": "Yemen",
+    "Code": "YE",
+    "DialingCode": "967",
+    "Currency": "YER",
+    "CurrencyPrint": "YER",
+    "Rate": "1"
+  },
+  {
+    "Name": "Zambia",
+    "Code": "ZM",
+    "DialingCode": "260",
+    "Currency": "ZMK",
+    "CurrencyPrint": "ZMK",
+    "Rate": "1"
+  },
+  {
+    "Name": "Zimbabwe",
+    "Code": "ZW",
+    "DialingCode": "263",
+    "Currency": "ZWL",
+    "CurrencyPrint": "ZWL",
+    "Rate": "1"
+  }
+]
