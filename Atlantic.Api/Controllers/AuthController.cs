@@ -1,6 +1,6 @@
 ﻿using Atlantic.Data.Models.Auth;
 using Atlantic.Data.Models.Dtos;
-using Atlantic.Data.Services;
+using Atlantic.Data.Services.Auth;
 using DMS.Data.Models.Requests;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;

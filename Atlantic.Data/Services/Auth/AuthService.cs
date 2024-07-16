@@ -11,7 +11,7 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 
-namespace Atlantic.Data.Services
+namespace Atlantic.Data.Services.Auth
 {
     public interface IAuthService
     {
@@ -134,7 +134,7 @@ namespace Atlantic.Data.Services
                 ApplicationUser appUser = await _userManager.FindByEmailAsync(request.Email);
                 if (appUser != null && appUser.Status == true)
                 {
-                    Microsoft.AspNetCore.Identity.SignInResult result = await _signInManager.PasswordSignInAsync(appUser, request.Password, false, false);
+                    SignInResult result = await _signInManager.PasswordSignInAsync(appUser, request.Password, false, false);
                     if (result.Succeeded)
                     {
                         var getOtp = await _otpService.GetByEmail(request.Email);
@@ -192,8 +192,8 @@ namespace Atlantic.Data.Services
                 new Claim(ClaimTypes.Email, appUser.Email),
                 new Claim(_options.ClaimsIdentity.UserIdClaimType, appUser.Id.ToString()),
                 new Claim(_options.ClaimsIdentity.UserNameClaimType, appUser.UserName),
-                new Claim("UserId", appUser?.Id.ToString()??String.Empty),
-                new Claim("Username", appUser?.UserName.ToString()??String.Empty),
+                new Claim("UserId", appUser?.Id.ToString()??string.Empty),
+                new Claim("Username", appUser?.UserName.ToString()??string.Empty),
                 new Claim("IsSystemAdmin",appUser?.IsSystemAdmin.ToString()??"false")
 
             };

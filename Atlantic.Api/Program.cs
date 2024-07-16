@@ -6,6 +6,7 @@ using Atlantic.Data.MongoFs;
 using Atlantic.Data.Repositories;
 using Atlantic.Data.Seeds;
 using Atlantic.Data.Services;
+using Atlantic.Data.Services.Auth;
 using AutoMapper;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;

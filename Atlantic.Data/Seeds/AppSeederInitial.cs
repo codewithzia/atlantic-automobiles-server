@@ -82,8 +82,8 @@ namespace Atlantic.Data.Seeds
                         Status = true,
                         IsSystemAdmin = true,
                         UserGroup = "Admin",
-                        UserType ="Admin",
-                        UserRole ="Admin"
+                        UserType = "Admin",
+                        UserRole = "Admin"
                     };
 
                     IdentityResult result = await _userManager.CreateAsync(user, "Asdf@1123");
@@ -100,44 +100,6 @@ namespace Atlantic.Data.Seeds
                     {
                         adminUser.IsSystemAdmin = true;
                         await _userManager.UpdateAsync(adminUser);
-                    }
-                }
-                if (!_userManager.Users.Any(x => x.Email.Equals("datosalim@dsmvisacard.com")))
-                {
-                    var user = new ApplicationUser
-                    {
-                        UserName = "datosalim@dsmvisacard.com",
-                        Firstname = "Dato Mohammed Salim",
-                        Email = "datosalim@dsmvisacard.com",
-                        PhoneNumber = "+60129243846",
-                        PasswordValidity = DateTime.Now.AddDays(90),
-                        Status = true,
-                        IsSystemAdmin = true,
-                    };
-
-                    IdentityResult result = await _userManager.CreateAsync(user, "DSalim2024");
-                    if (result.Succeeded)
-                    {
-                        await _userManager.AddToRoleAsync(user, "Admin");
-                    }
-                }
-                if (!_userManager.Users.Any(x => x.Email.Equals("external@dsmvisacard.com")))
-                {
-                    var user = new ApplicationUser
-                    {
-                        UserName = "external@dsmvisacard.com",
-                        Firstname = "API Test User",
-                        Email = "external@dsmvisacard.com",
-                        PhoneNumber = "+60112121211",
-                        PasswordValidity = DateTime.Now.AddDays(90),
-                        Status = true,
-                        IsSystemAdmin = true,
-                    };
-
-                    IdentityResult result = await _userManager.CreateAsync(user, "ExTernal2024");
-                    if (result.Succeeded)
-                    {
-                        await _userManager.AddToRoleAsync(user, "KYCAdmin");
                     }
                 }
 
