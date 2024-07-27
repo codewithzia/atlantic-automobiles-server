@@ -49,6 +49,12 @@ namespace Atlantic.Api.Controllers
             return Ok();
         }
 
+        [HttpPost("ChangeMyPassword")]
+        public async Task<ActionResult> ChangeMyPassword([FromBody] ChangePassword changePassword)
+        {
+            var user = await _authService.ChangePassword(changePassword);
+            return Ok(user);
+        }
         [HttpPost("roles")]
         public async Task<IActionResult> Roles()
         {

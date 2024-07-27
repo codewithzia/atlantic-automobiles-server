@@ -23,6 +23,7 @@ namespace Atlantic.Data.Services.Auth
         public Task<GenericResponse> UpdatePin(UpdatePinDto updatePin);
         public Task<bool> CheckPin(UpdatePinDto updatePin);
         public Task<bool> HavePin();
+        public Task<LoginResponse> ChangePassword(ChangePassword changePassword);
     }
     public class AuthService : IAuthService
     {
@@ -356,5 +357,43 @@ namespace Atlantic.Data.Services.Auth
                 throw;
             }
         }
+
+        public async Task<LoginResponse> ChangePassword(ChangePassword changePassword)
+        {
+            try
+            {
+                var appUser = await _userManager.FindByIdAsync(_unitOfWork.HttpAccessor().CurrentUserId());
+                // check if old password is correct 
+                var OldPAssisCorrect = await _userManager.CheckPasswordAsync(appUser, changePassword.OldPassword);
+                if (!OldPAssisCorrect)
+                {
+                    throw new Exception("Password didnot matched");
+                }
+                var token = await _userManager.GeneratePasswordResetTokenAsync(appUser);
+                // change password
+                await _userManager.ResetPasswordAsync(appUser, token, changePassword.NewPassword);
+
+                return new LoginResponse
+                {
+                    Email = appUser.Email,
+                    UserDto = new UserDto
+                    {
+                        Id = appUser.Id,
+                        Firstname = appUser.Firstname,
+                        Lastname = appUser.Lastname,
+                        Email = appUser.Email,
+                        UserName = appUser.UserName,
+                        PhoneNumber = appUser.PhoneNumber,
+                    }
+                };
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+
+        }
+
     }
 }
