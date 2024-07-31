@@ -18,6 +18,9 @@ namespace Atlantic.Data.Repositories
         IRepository<UserProfile> UserProfileRepository { get; }
         IRepository<Customer> CustomerRepository { get; }
         IRepository<Permission> PermissionRepository { get; }
+        IRepository<ProductType> ProductTypeRepository { get; }
+        IRepository<Product> ProductRepository { get; }
+
 
         string GetUserId();
         string EnvironmentName();
@@ -32,6 +35,8 @@ namespace Atlantic.Data.Repositories
         private IRepository<UserProfile>? _userProfileRepository;
         private IRepository<Customer>? _customerRepository;
         private IRepository<Permission>? _permissionRepository;
+        private IRepository<ProductType>? _productTypeRepository;
+        private IRepository<Product>? _productRepository;
 
 
         public UnitOfWork(IHttpContextAccessorService httpAccessor, IHubContext<NotificationHub> hub, IWebHostEnvironment hostingEnv)
@@ -86,6 +91,14 @@ namespace Atlantic.Data.Repositories
         public IRepository<Permission> PermissionRepository
         {
             get { return _permissionRepository = _permissionRepository ?? new Repository<Permission>(_httpAccessor); }
+        }
+        public IRepository<ProductType> ProductTypeRepository
+        {
+            get { return _productTypeRepository = _productTypeRepository ?? new Repository<ProductType>(_httpAccessor); }
+        }
+        public IRepository<Product> ProductRepository
+        {
+            get { return _productRepository = _productRepository ?? new Repository<Product>(_httpAccessor); }
         }
     }
 

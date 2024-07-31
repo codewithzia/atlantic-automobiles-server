@@ -20,7 +20,7 @@ namespace Atlantic.Api.Controllers
             _unitOfWork = unitOfWork;
         }
 
-
+        /*
         [HttpPost("upload")]
         public async Task<IActionResult> Upload(IFormFile file)
         {
@@ -43,7 +43,7 @@ namespace Atlantic.Api.Controllers
                 }
 
                 var data = new List<Dictionary<string, object>>();
-                var cards = new List<VisaCard>();
+                var cards = new List<ProductType>();
                 var existingCardCounter = 0;
 
                 using (var package = new ExcelPackage(new FileInfo(filePath)))
@@ -55,14 +55,14 @@ namespace Atlantic.Api.Controllers
                     for (int row = 2; row <= rowCount; row++) // Start from row 2 to skip the header
                     {
                         var dateParts = worksheet.Cells[row, 5].Text.Split("/");
-                        var card = new VisaCard
+                        var card = new ProductType
                         {
                             SerialNumber = worksheet.Cells[row, 2].Text,
                             Barcode = worksheet.Cells[row, 3].Text,
                             LastDigits = worksheet.Cells[row, 4].Text,
                             Expiry = (new DateTime(Convert.ToInt32(dateParts[1]), Convert.ToInt32(dateParts[0]), 1)).AddMonths(1).AddMinutes(-1),
                         };
-                        if (!DB.Queryable<VisaCard>().Any(x => x.SerialNumber == card.SerialNumber))
+                        if (!DB.Queryable<ProductType>().Any(x => x.SerialNumber == card.SerialNumber))
                         {
                             cards.Add(card);
                         }
@@ -90,7 +90,7 @@ namespace Atlantic.Api.Controllers
             {
                 throw new Exception(ex.Message);
             }
-        }
+        }*/
 
     }
 }
